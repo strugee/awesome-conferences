@@ -48,7 +48,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [NebraskaJS](http://nejsconf.com/) // [@nejsconf](https://twitter.com/nejsconf)
 * [ng-conf](http://www.ng-conf.org/) // [@ngconf](https://twitter.com/ngconf)
 * [nodeconf](http://nodeconf.com/) // [@nodeconf](https://twitter.com/nodeconf)
-* [Node Summit](nodesummit.com) // [@NodeSummit](https://twitter.com/NodeSummit)
+* [Node Summit](http://nodesummit.com) // [@NodeSummit](https://twitter.com/NodeSummit)
 * [Nodevember](http://nodevember.org/) // [@nodevember](https://twitter.com/nodevember)
 * [O'Reilly Fluent](http://fluentconf.com) // [@fluentconf](https://twitter.com/fluentconf)
 * [O'Reilly Strata](http://strataconf.com/) // [@strataconf](https://twitter.com/strataconf)
